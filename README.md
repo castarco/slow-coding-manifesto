@@ -7,18 +7,19 @@ perspective, but also its practical and human sides.
 
 Because of that, we've seen published documents like the
 [GNU Manifesto](https://www.gnu.org/gnu/manifesto.en.html), with clear doses of
-activism;
-[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/),
-and [Homesteading the Noosphere](http://catb.org/~esr/writings/homesteading/homesteading/)
-following a more insightful and philosophical perspective; or
+activism; or
 [The Agile Manifesto](https://agilemanifesto.org/) and
-[The Async Manifesto](http://asyncmanifesto.org/) focusing on organizational
-and communication aspects.
+[The Async Manifesto](http://asyncmanifesto.org/), focusing on organizational
+and communication aspects; or even relatively long essays like
+[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/),
+or
+[Homesteading the Noosphere](http://catb.org/~esr/writings/homesteading/homesteading/),
+offering a more insightful and philosophical perspective.
 
 This manifesto is a little bit different, it has some bits of activism, although
 not focusing on what to do or how to do things, but on why. As the world goes
-on, some of us want to have a meaningful and positive impact on the world: we
-want to contribute with our knowledge and skills to solve our current and future
+on, some of us want to have a meaningful and positive impact on it: we want to
+contribute with our knowledge and skills to solve our current and future
 problems in a socially and environmentally responsible way.
 
 ## What do we want
@@ -41,3 +42,5 @@ problems in a socially and environmentally responsible way.
 6. Programming is a social activity, it benefits from respectful relations
    between coworkers. Caring about code quality is not just perfectionism, but
    caring about our colleagues, who will have to deal with our code.
+
+Be kind to yourself, take your time, make beautiful code... and enjoy.
